@@ -44,9 +44,12 @@ Personalized Job Recommendations from LinkedIn and Naukri based on resume.
 
 <img width="1250" height="517" alt="Screenshot 2025-08-11 095855" src="https://github.com/user-attachments/assets/516fca60-893e-44c7-95fb-9274e5292f55" />
 
+
 <img width="1226" height="579" alt="Screenshot 2025-08-11 095953" src="https://github.com/user-attachments/assets/bf4d5878-fb41-4d1f-9003-1e947c2d2591" />
 
+
 <img width="1167" height="565" alt="Screenshot 2025-08-11 100024" src="https://github.com/user-attachments/assets/1647dda6-3b83-4a3a-8a66-d34e946011c0" />
+
 
 <img width="1200" height="557" alt="Screenshot 2025-08-11 100139" src="https://github.com/user-attachments/assets/4cbfe16f-9bc8-47f7-9f24-6fb14e727ae6" />
 
